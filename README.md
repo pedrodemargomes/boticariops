@@ -75,7 +75,7 @@ curl --location --request POST 'http://localhost:3000/purchase' \
 }
 ```
 
-## Get purchases
+## Get purchases of user
 
 #### GET http://localhost:3000/purchase
 ```bash
@@ -99,7 +99,7 @@ curl --location --request GET 'http://localhost:3000/purchase' \
 }
 ```
 
-## Get cashback value
+## Get cashback value of user
 
 #### GET  http://localhost:3000/purchase/cashback
 ```bash
