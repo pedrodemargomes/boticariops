@@ -1,0 +1,19 @@
+{
+    "development": {
+        "mongodb": {
+            "uri": "mongodb://127.0.0.1:27017/test",
+            "secret": ""
+        },
+        "jwt": {
+            "key": "secret", 
+            "expireTime" : 3600
+        },
+        "log": {
+            "level": "debug"
+        },
+        "alwaysApprovedCPFs": ["15350946056"],
+        "cashbackcurl": "https://mdaqk8ek5j.execute-api.us-east-1.amazonaws.com/v1/cashback",
+        "port": 3000,
+        "logDebug": true
+    }
+}
