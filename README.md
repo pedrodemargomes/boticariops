@@ -1,3 +1,16 @@
+# API
+
+## Install
+```bash
+cd src
+npm i
+```
+
+## Run
+```bash
+npm start
+```
+
 ## Create user
 
 #### POST http://localhost:3000/user
