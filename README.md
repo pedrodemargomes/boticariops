@@ -8,6 +8,7 @@ npm i
 
 ## Run
 ```bash
+cd src
 npm start
 ```
 
